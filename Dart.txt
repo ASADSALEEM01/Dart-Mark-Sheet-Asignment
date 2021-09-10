@@ -1,0 +1,37 @@
+void main(){
+ var name="                              STATEMENT OF MARKS";
+  print (name);
+  var name1="Name:              Muhammad Asad";
+  print (name1);
+  var name2="Father Name:       Muhammad Saleem";
+  print (name2);
+  var name3="Group:             Commerce";
+  print (name3);
+  var name4="Roll No:           12345";
+  print (name4);
+  var name5="College/Private:   <<PRIVATE>>";
+  print (name5);
+  var arr="Sbject";
+  var arr1="          Max Marks";
+  var arr2="          Marks Obtained";
+  var arr3="          Percentage";
+  var arr4="          Remarks";
+  print(arr+arr1+arr2+arr3+arr4);
+  var name6="urdu              100                   78                    78%              Pass";
+  print(name6);
+  var name7="English           100                   71                    71%              Pass";
+  print(name7);
+  var name8="Islmiat            50                   41                    82%              Pass";
+  print(name8);
+  var name9="Accounting        100                   67                    67%              Pass";
+  print(name9);
+  var name10="P.o.c              75                   60                    80%              Pass";
+  print(name10);
+  var name11="Economics          75                   55                    73%              Pass";
+  print(name11);
+  var name12="B.Math             50                   38                    76%              Pass";
+  print(name12);
+  var arr5="  TOTAl           550                   410                   74%               A";
+  print(arr5);
+  
+}
